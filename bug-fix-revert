@@ -1,0 +1,15 @@
+curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls
+[
+  {
+    "url": "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/1",
+    "state": "open",
+    "head": {
+      "label": "Sheezahjawaid:bug-fix-typo",
+      "ref": "bug-fix-typo",
+      "repo": {
+        "full_name": "Sheezahjawaid/mcino-Introduction-to-Git-and-GitHub",
+        "fork": true
+      }
+    }
+  }
+]
